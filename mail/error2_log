@@ -1,0 +1,14 @@
+[08-Dec-2023 15:09:50 UTC] PHP Fatal error:  Uncaught RuntimeException: Mailgun's servers are currently unreachable. in /home/aauadmin/aau/sgci/grants/vendor/mailgun/mailgun-php/src/Api/Message.php:72
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/mail/MailgunService.php(28): Mailgun\Api\Message->send('mg.aau.org', Array)
+#1 /home/aauadmin/aau/sgci/grants/mail/MailSender.php(12): MailgunService->sendEmail('write2kpani@gma...', 'Test Mail', NULL, NULL)
+#2 /home/aauadmin/aau/sgci/grants/mail/index.php(14): MailSender->send('write2kpani@gma...', 'Test Mail')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/vendor/mailgun/mailgun-php/src/Api/Message.php on line 72
+[08-Dec-2023 15:10:45 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`awsserver.aau.org' did not match expected CN=`smtp.gmail.com'SMTP server error: QUIT command failed Detail: éé÷ùqZTÕ¢ç¹çÙŒ1 221 awsserver.aau.org closing connection
+ in /home/aauadmin/aau/sgci/grants/mail/SmtpService.php:56
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/mail/MailSender.php(12): SMTPService->sendEmail('write2kpani@gma...', 'Test Mail', NULL, NULL)
+#1 /home/aauadmin/aau/sgci/grants/mail/index.php(14): MailSender->send('write2kpani@gma...', 'Test Mail')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/mail/SmtpService.php on line 56

@@ -1,0 +1,8 @@
+[08-Dec-2023 15:11:21 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`awsserver.aau.org' did not match expected CN=`smtp.gmail.com'SMTP server error: QUIT command failed Detail: ²9G®G"(ç†E:mL221 awsserver.aau.org closing connection
+ in /home/aauadmin/aau/sgci/grants/mail/SmtpService.php:56
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/mail/MailSender.php(12): SMTPService->sendEmail('write2kpani@gma...', 'Test Mail', NULL, NULL)
+#1 /home/aauadmin/aau/sgci/grants/mail/index.php(14): MailSender->send('write2kpani@gma...', 'Test Mail')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/mail/SmtpService.php on line 56
+[25-Feb-2024 21:17:53 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/aauadmin/aau/sgci/grants/vendor/composer/platform_check.php on line 24

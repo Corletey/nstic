@@ -1,0 +1,346 @@
+ /* Awarded Grants Page Styles */
+ .awarded-grants-area {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+}
+
+.page-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/banner/grantsbanner.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-header h1 {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.breadcrumb {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+}
+
+.breadcrumb-item {
+    color: #fff;
+}
+
+.breadcrumb-item a {
+    color: #f58f14;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: #fff;
+}
+
+/* Stats Cards */
+.stats-heading {
+    margin-bottom: 25px;
+    font-weight: 600;
+    color: #333;
+}
+
+.stats-cards {
+    margin-bottom: 40px;
+}
+
+.stats-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    height: 100%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stats-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.stats-card-primary {
+    border-top: 4px solid #4e73df;
+}
+
+.stats-card-success {
+    border-top: 4px solid #1cc88a;
+}
+
+.stats-card-info {
+    border-top: 4px solid #36b9cc;
+}
+
+.stats-card-warning {
+    border-top: 4px solid #f6c23e;
+}
+
+.stats-icon {
+    float: right;
+    font-size: 32px;
+    opacity: 0.3;
+    margin-top: -10px;
+}
+
+.stats-title {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.stats-number {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.stats-label {
+    color: #888;
+    font-size: 13px;
+}
+
+.stats-progress {
+    height: 5px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+/* Grant Cards */
+.grants-heading {
+    margin-bottom: 25px;
+    font-weight: 600;
+    color: #333;
+}
+
+.grants-card-container {
+    margin-top: 20px;
+}
+
+.grant-card {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.grant-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.grant-card-header {
+    padding: 20px;
+    position: relative;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.award-date {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #28a745;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1;
+}
+
+.date-day {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.date-month {
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-top: 2px;
+}
+
+.grant-title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.4;
+    padding-right: 70px;
+}
+
+.grant-title a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.grant-title a:hover {
+    color: #28a745;
+}
+
+.grant-card-body {
+    padding: 20px;
+    flex-grow: 1;
+}
+
+.grant-meta {
+    margin-bottom: 0;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #666;
+}
+
+.meta-item:last-child {
+    margin-bottom: 0;
+}
+
+.meta-item i {
+    width: 20px;
+    margin-right: 10px;
+    color: #28a745;
+    text-align: center;
+}
+
+.meta-item .badge {
+    margin-left: 8px;
+    font-size: 11px;
+    padding: 4px 8px;
+    border-radius: 12px;
+}
+
+.badge-pink {
+    background-color: #e83e8c;
+    color: #fff;
+}
+
+.category-badge {
+    color: #e74a3b;
+    font-weight: 600;
+}
+
+.grant-card-footer {
+    padding: 15px 20px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #f1f1f1;
+}
+
+.btn-view {
+    display: inline-block;
+    background-color: #28a745;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn-view:hover {
+    background-color: #218838;
+    color: #fff;
+}
+
+.no-grants-message {
+    text-align: center;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    font-size: 18px;
+    color: #666;
+}
+
+/* Gender distribution chart */
+.gender-distribution {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.gender-chart {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.gender-legend {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+.male-color {
+    background-color: #4e73df;
+}
+
+.female-color {
+    background-color: #e83e8c;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 991px) {
+    .page-header {
+        padding: 60px 0;
+    }
+
+    .page-header h1 {
+        font-size: 36px;
+    }
+}
+
+@media (max-width: 767px) {
+    .page-header {
+        padding: 40px 0;
+    }
+
+    .page-header h1 {
+        font-size: 30px;
+    }
+
+    .awarded-grants-area {
+        padding: 40px 0;
+    }
+
+    .stats-card,
+    .grant-card {
+        margin-bottom: 20px;
+    }
+
+    .stats-number {
+        font-size: 24px;
+    }
+}

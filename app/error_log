@@ -1,0 +1,1631 @@
+[19-Sep-2023 07:59:50 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 08:07:54 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 08:10:00 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:22:54 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:31:20 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:32:04 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:40:40 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:41:49 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:42:32 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:44:10 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:46:44 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:47:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:53:43 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:55:33 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 12:57:26 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 13:20:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 13:22:33 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 13:23:26 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 13:28:01 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 13:29:41 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[19-Sep-2023 17:21:41 UTC] PHP Warning:  Undefined variable $usmtpHost in /home/aauadmin/aau/sgci/grants/app/email.php on line 33
+[19-Sep-2023 17:21:41 UTC] PHP Warning:  Undefined variable $emailUsername in /home/aauadmin/aau/sgci/grants/app/email.php on line 34
+[19-Sep-2023 17:21:41 UTC] PHP Warning:  Undefined variable $emailPassword in /home/aauadmin/aau/sgci/grants/app/email.php on line 35
+[19-Sep-2023 17:21:41 UTC] PHP Warning:  Undefined variable $emailBcc in /home/aauadmin/aau/sgci/grants/app/email.php on line 36
+[19-Sep-2023 17:21:41 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1201
+[19-Sep-2023 17:21:41 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1205
+[19-Sep-2023 17:24:26 UTC] PHP Warning:  Undefined variable $usmtpHost in /home/aauadmin/aau/sgci/grants/app/email.php on line 33
+[19-Sep-2023 17:24:26 UTC] PHP Warning:  Undefined variable $emailUsername in /home/aauadmin/aau/sgci/grants/app/email.php on line 34
+[19-Sep-2023 17:24:26 UTC] PHP Warning:  Undefined variable $emailPassword in /home/aauadmin/aau/sgci/grants/app/email.php on line 35
+[19-Sep-2023 17:24:26 UTC] PHP Warning:  Undefined variable $emailBcc in /home/aauadmin/aau/sgci/grants/app/email.php on line 36
+[19-Sep-2023 17:24:26 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1201
+[19-Sep-2023 17:24:26 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1205
+[19-Sep-2023 17:27:11 UTC] PHP Warning:  Undefined variable $usmtpHost in /home/aauadmin/aau/sgci/grants/app/email.php on line 33
+[19-Sep-2023 17:27:11 UTC] PHP Warning:  Undefined variable $emailUsername in /home/aauadmin/aau/sgci/grants/app/email.php on line 34
+[19-Sep-2023 17:27:11 UTC] PHP Warning:  Undefined variable $emailPassword in /home/aauadmin/aau/sgci/grants/app/email.php on line 35
+[19-Sep-2023 17:27:11 UTC] PHP Warning:  Undefined variable $emailBcc in /home/aauadmin/aau/sgci/grants/app/email.php on line 36
+[19-Sep-2023 17:27:11 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1201
+[19-Sep-2023 17:27:11 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1205
+[19-Sep-2023 17:57:00 UTC] PHP Warning:  Undefined variable $usmtpHost in /home/aauadmin/aau/sgci/grants/app/email.php on line 33
+[19-Sep-2023 17:57:00 UTC] PHP Warning:  Undefined variable $emailUsername in /home/aauadmin/aau/sgci/grants/app/email.php on line 34
+[19-Sep-2023 17:57:00 UTC] PHP Warning:  Undefined variable $emailPassword in /home/aauadmin/aau/sgci/grants/app/email.php on line 35
+[19-Sep-2023 17:57:00 UTC] PHP Warning:  Undefined variable $emailBcc in /home/aauadmin/aau/sgci/grants/app/email.php on line 36
+[19-Sep-2023 17:57:00 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1201
+[19-Sep-2023 17:57:00 UTC] PHP Warning:  Undefined variable $emailSSL in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1205
+[20-Sep-2023 08:20:55 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1225
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(1111): PHPMailer->smtpConnect()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#3 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_submit_call_for_proposal.php(135): PHPMailer->send()
+#4 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#5 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1225
+[20-Sep-2023 21:21:40 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[28-Oct-2023 12:05:10 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[28-Oct-2023 12:05:33 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[28-Oct-2023 12:05:50 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[28-Oct-2023 12:06:08 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Oct-2023 11:39:03 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Oct-2023 12:08:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 10:10:20 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 10:10:57 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 11:41:57 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 12:21:30 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 12:45:43 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 12:45:51 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 12:53:56 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[31-Oct-2023 18:23:53 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 11:35:04 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/all_users.php(58): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 11:42:44 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 12:03:37 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 13:41:22 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 13:44:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 13:45:32 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 13:46:01 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 14:02:06 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 14:18:00 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 14:20:21 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 14:20:25 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 14:51:52 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 14:58:12 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 15:29:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 21:16:02 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 21:36:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Nov-2023 21:37:26 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[03-Nov-2023 19:00:37 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[03-Nov-2023 19:20:12 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[03-Nov-2023 19:22:07 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Nov-2023 23:48:11 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[05-Nov-2023 00:03:29 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[05-Nov-2023 00:03:35 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Nov-2023 15:01:37 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Nov-2023 16:55:33 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Nov-2023 17:01:28 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Nov-2023 17:01:41 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Nov-2023 21:25:03 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Nov-2023 21:29:57 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 04:36:18 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 04:48:40 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 04:56:11 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 04:58:49 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 04:59:49 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 05:02:55 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 05:11:42 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 05:15:22 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 05:23:32 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 08:15:29 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 08:17:28 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 11:32:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Nov-2023 11:35:16 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_make_final_submission.php(106): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[29-Nov-2023 11:22:33 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 13:02:03 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 13:59:08 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 14:38:44 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:27:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:34:43 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:39:33 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:40:12 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:40:25 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:40:51 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:43:42 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:45:42 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:46:32 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:46:59 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:47:24 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:47:53 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:48:13 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:48:53 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:49:36 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:50:02 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:50:38 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:51:08 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:51:46 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:52:18 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_assign_to_approve_reject.php(76): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[30-Nov-2023 15:54:46 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[30-Nov-2023 15:59:27 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[30-Nov-2023 16:03:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[30-Nov-2023 16:06:32 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[30-Nov-2023 16:14:19 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[30-Nov-2023 16:16:13 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[01-Dec-2023 06:56:44 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Dec-2023 07:01:44 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(148): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Dec-2023 07:03:35 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Dec-2023 07:04:13 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Dec-2023 09:02:57 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[01-Dec-2023 09:05:36 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:06:17 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:07:51 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:09:15 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:09:25 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[04-Dec-2023 08:17:30 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:18:34 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:19:22 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:45:34 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:45:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:46:47 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:46:54 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:48:30 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 08:48:36 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[04-Dec-2023 14:17:16 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[05-Dec-2023 12:45:38 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 14:18:31 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:19:18 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:25:41 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:28:41 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:31:41 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:38:13 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:39:51 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:40:11 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:42:29 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:42:39 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:46:05 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:50:59 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:52:40 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:55:49 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:56:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:56:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 16:57:09 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 17:02:02 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Dec-2023 17:33:01 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[06-Dec-2023 17:57:06 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[07-Dec-2023 13:39:29 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress()
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[07-Dec-2023 13:45:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress()
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[08-Dec-2023 08:34:20 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress()
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress()
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[08-Dec-2023 15:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/aauadmin/aau/sgci/grants/app/configlrcn/db_mconfig.php:8
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/contrlrcn/c_mlsrcontrol.php(2): include()
+#1 /home/aauadmin/aau/sgci/grants/app/main.php(3): require_once('/home/aauadmin/...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/configlrcn/db_mconfig.php on line 8
+[08-Dec-2023 15:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/aauadmin/aau/sgci/grants/app/configlrcn/db_mconfig.php:8
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/contrlrcn/c_mlsrcontrol.php(2): include()
+#1 /home/aauadmin/aau/sgci/grants/app/main.php(3): require_once('/home/aauadmin/...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/configlrcn/db_mconfig.php on line 8
+[09-Dec-2023 11:46:12 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', '')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress(NULL, NULL)
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[09-Dec-2023 12:35:03 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', '')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress(NULL, NULL)
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[09-Dec-2023 12:37:38 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', '')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(128): PHPMailer->addAddress(NULL, NULL)
+#2 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[12-Dec-2023 13:46:58 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/aauadmin/aau/sgci/grants/app/viewlrcn/stats_proposal_new_submission.php:81
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/main.php(541): include()
+#1 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/stats_proposal_new_submission.php on line 81
+[12-Dec-2023 13:51:08 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/aauadmin/aau/sgci/grants/app/viewlrcn/stats_proposal_new_submission.php:81
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/main.php(541): include()
+#1 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/stats_proposal_new_submission.php on line 81
+[12-Dec-2023 13:53:45 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/aauadmin/aau/sgci/grants/app/viewlrcn/stats_proposal_new_submission.php:81
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/main.php(541): include()
+#1 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/stats_proposal_new_submission.php on line 81
+[15-Dec-2023 16:30:51 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', 'Kelleh  Gbawuru...')
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress(NULL, 'Kelleh  Gbawuru...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[15-Dec-2023 17:24:06 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', 'Kelleh  Gbawuru...')
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress(NULL, 'Kelleh  Gbawuru...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[20-Dec-2023 13:27:37 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 20 D...', '--b1_43939415f9...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[20-Dec-2023 13:31:15 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 20 D...', '--b1_28149dcc5c...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[20-Dec-2023 13:39:17 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 20 D...', '--b1_8f1557b49a...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[20-Dec-2023 16:15:06 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 20 D...', '--b1_cc9d46895b...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 11:42:37 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_review_proposal_project_management.php:34
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/main.php(541): include()
+#1 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_review_proposal_project_management.php on line 34
+[21-Dec-2023 13:45:20 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_662a148c32...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 13:50:49 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_b0467f6f9b...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 13:54:46 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_b7dff7c06b...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/dynamic_proposal_score_reviewers.php(202): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 14:20:59 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_e917aebf74...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 15:41:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', 'Kelleh  Gbawuru...')
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress(NULL, 'Kelleh  Gbawuru...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[21-Dec-2023 15:47:02 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', 'Kelleh  Gbawuru...')
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress(NULL, 'Kelleh  Gbawuru...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[21-Dec-2023 15:48:54 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', 'Kelleh  Gbawuru...')
+#1 /home/aauadmin/aau/sgci/grants/app/conflict.php(170): PHPMailer->addAddress(NULL, 'Kelleh  Gbawuru...')
+#2 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 713
+[21-Dec-2023 16:24:21 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_739c250e0b...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 16:26:38 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_08250cc143...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[21-Dec-2023 18:20:02 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Thu, 21 D...', '--b1_78d5de71fa...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/proposal_assign_to_reviewers.php(104): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Jan-2024 16:18:13 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Sat, 6 Ja...', '--b1_14be093929...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[06-Jan-2024 16:20:48 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Sat, 6 Ja...', '--b1_33ffa83719...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[08-Jan-2024 11:34:20 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Mon, 8 Ja...', '--b1_e4cc9ff8da...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/undertakereview.php(173): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[09-Jan-2024 11:48:36 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 9 Ja...', '--b1_567354686a...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[09-Jan-2024 12:07:08 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 9 Ja...', '--b1_5e865ec81c...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[09-Jan-2024 12:46:10 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 9 Ja...', '--b1_96f9482f6a...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[09-Jan-2024 12:47:55 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 9 Ja...', '--b1_bd6f9be7a2...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[09-Jan-2024 13:46:58 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 9 Ja...', '--b1_351ebd3ca7...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[09-Jan-2024 14:08:27 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 9 Ja...', '--b1_0747d68b51...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/viewlrcn/successm_cfnusers.php(175): PHPMailer->send()
+#3 /home/aauadmin/aau/sgci/grants/app/main.php(541): include('/home/aauadmin/...')
+#4 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[10-Jan-2024 11:09:09 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/aauadmin/aau/sgci/grants/app/viewlrcn/custom_reports.php:257
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/main.php(541): include()
+#1 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/custom_reports.php on line 257
+[24-Jan-2024 12:54:23 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 24 J...', '--b1_7848210406...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/awardgrant.php(322): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[24-Jan-2024 13:22:35 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 24 J...', '--b1_0afd13dfc7...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/awardgrant.php(322): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[24-Jan-2024 13:22:39 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 24 J...', '--b1_0e61951aec...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/awardgrant.php(322): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[24-Jan-2024 13:23:50 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 24 J...', '--b1_9db5fe78a2...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/awardgrant.php(322): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[24-Jan-2024 13:24:50 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 24 J...', '--b1_451d69fd1e...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/awardgrant.php(322): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[24-Jan-2024 13:26:50 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php:1112
+Stack trace:
+#0 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Wed, 24 J...', '--b1_c43b01c7a8...')
+#1 /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/aauadmin/aau/sgci/grants/app/awardgrant.php(322): PHPMailer->send()
+#3 {main}
+  thrown in /home/aauadmin/aau/sgci/grants/app/viewlrcn/class.phpmailer.php on line 1112
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Undefined index: doSaveProceed in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 41
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Undefined index: doSaveProceed in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 106
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Undefined index: doNextPage in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 137
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 166
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Undefined variable: message in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 180
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 253
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Undefined variable: rUserInv2 in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 326
+[25-Oct-2024 09:13:33 Africa/Accra] PHP Notice:  Trying to access array offset on value of type null in /home/careersug/public_html/grants/app/viewlrcn/dynamic_proposal_calls_add_categories.php on line 326
+[25-Oct-2024 11:07:04 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: ben@g.com in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:1158
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Fri, 25 O...', '--b1_788b8cbb8e...')
+#1 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/careersug/public_html/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/careersug/public_html/grants/app/main.php(541): include('/home/careersug...')
+#4 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 1158
+[25-Oct-2024 12:13:13 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: ben@g.com in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:1158
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Fri, 25 O...', '--b1_e0196cff7a...')
+#1 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/careersug/public_html/grants/app/viewlrcn/proposal_assign_to_reviewers.php(109): PHPMailer->send()
+#3 /home/careersug/public_html/grants/app/main.php(541): include('/home/careersug...')
+#4 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 1158
+[28-Oct-2024 06:11:44 Africa/Accra] PHP Notice:  Undefined variable: TotalBudget in /home/careersug/public_html/grants/app/viewlrcn/request_for_procurement.php on line 70
+[28-Oct-2024 06:18:53 Africa/Accra] PHP Notice:  Undefined variable: TotalCost2 in /home/careersug/public_html/grants/app/viewlrcn/request_for_procurement.php on line 83
+[28-Oct-2024 06:20:15 Africa/Accra] PHP Notice:  Undefined variable: TotalCost2 in /home/careersug/public_html/grants/app/viewlrcn/request_for_procurement.php on line 83
+[28-Oct-2024 06:28:02 Africa/Accra] PHP Notice:  Undefined index: doSaveData in /home/careersug/public_html/grants/app/viewlrcn/request_for_procurement.php on line 8
+[28-Oct-2024 06:33:49 Africa/Accra] PHP Notice:  Undefined index: doSaveData in /home/careersug/public_html/grants/app/viewlrcn/request_for_procurement.php on line 8
+[28-Oct-2024 06:54:25 Africa/Accra] PHP Notice:  Undefined index: grantID in /home/careersug/public_html/grants/app/viewlrcn/request_for_procurement.php on line 6
+[28-Oct-2024 09:12:47 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/careersug/public_html/grants/app/funds.php:383
+Stack trace:
+#0 {main}
+  thrown in /home/careersug/public_html/grants/app/funds.php on line 383
+[28-Oct-2024 09:16:09 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/careersug/public_html/grants/app/funds.php:385
+Stack trace:
+#0 {main}
+  thrown in /home/careersug/public_html/grants/app/funds.php on line 385
+[28-Oct-2024 09:23:47 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/careersug/public_html/grants/app/funds.php:388
+Stack trace:
+#0 {main}
+  thrown in /home/careersug/public_html/grants/app/funds.php on line 388
+[28-Oct-2024 09:29:02 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/careersug/public_html/grants/app/funds.php:390
+Stack trace:
+#0 {main}
+  thrown in /home/careersug/public_html/grants/app/funds.php on line 390
+[28-Oct-2024 09:29:57 Africa/Accra] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/careersug/public_html/grants/app/funds.php:390
+Stack trace:
+#0 {main}
+  thrown in /home/careersug/public_html/grants/app/funds.php on line 390
+[29-Oct-2024 06:02:39 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', '')
+#1 /home/careersug/public_html/grants/app/viewlrcn/proposal_assign_to_reviewers.php(135): PHPMailer->addAddress(NULL, NULL)
+#2 /home/careersug/public_html/grants/app/main.php(542): include('/home/careersug...')
+#3 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 713
+[29-Oct-2024 06:03:35 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', '')
+#1 /home/careersug/public_html/grants/app/viewlrcn/proposal_assign_to_reviewers.php(135): PHPMailer->addAddress(NULL, NULL)
+#2 /home/careersug/public_html/grants/app/main.php(542): include('/home/careersug...')
+#3 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 713
+[29-Oct-2024 12:43:22 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: fatmata@grantofficer4 in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:1158
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 29 O...', '--b1_f2ef9e4ba7...')
+#1 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/careersug/public_html/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/careersug/public_html/grants/app/main.php(542): include('/home/careersug...')
+#4 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 1158
+[29-Oct-2024 12:44:39 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: leonardyommie005@gmal.com in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:1158
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(962): PHPMailer->smtpSend('Date: Tue, 29 O...', '--b1_9fc64c7c74...')
+#1 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(877): PHPMailer->postSend()
+#2 /home/careersug/public_html/grants/app/viewlrcn/add_reviewers.php(180): PHPMailer->send()
+#3 /home/careersug/public_html/grants/app/main.php(542): include('/home/careersug...')
+#4 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 1158
+[29-Oct-2024 14:15:45 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', 'SA')
+#1 /home/careersug/public_html/grants/app/viewlrcn/add_reviewers.php(159): PHPMailer->addAddress('', 'SA')
+#2 /home/careersug/public_html/grants/app/main.php(542): include('/home/careersug...')
+#3 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 713
+[30-Oct-2024 10:50:29 Africa/Accra] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php:713
+Stack trace:
+#0 /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php(653): PHPMailer->addAnAddress('to', '', '')
+#1 /home/careersug/public_html/grants/app/viewlrcn/proposal_assign_to_reviewers.php(135): PHPMailer->addAddress(NULL, NULL)
+#2 /home/careersug/public_html/grants/app/main.php(542): include('/home/careersug...')
+#3 {main}
+  thrown in /home/careersug/public_html/grants/app/viewlrcn/class.phpmailer.php on line 713

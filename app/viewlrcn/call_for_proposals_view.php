@@ -1,0 +1,1 @@
+<?php if($session_usertype=='superadmin' || $session_usertype=='admin'){CallForProposalsNew();}?>
