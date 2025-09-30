@@ -58,35 +58,37 @@ if ($_POST['doLogin']) { //=="$lang_Signmein"
     $dbsentNotify = $r['sentNotify'];
     //////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+    // Check if user exists and credentials are correct
+    if ($totalUser == 1) {
+        // Check if account is approved
+        if ($dbusrm_approved == "0") {
+            // Account not approved - show verification message
+            $err2 = '<span class="error">Your account is not yet verified. Please check your email and verify your account before logging in.</span>';
+        } else if ($dbusrm_approved == "1") {
+            // Account is approved - proceed with login
+            $_SESSION['usrm_username'] = $dbusrm_username;
+            $_SESSION['usrm_email'] = $dbusrm_email;
+            $_SESSION['usrm_id'] = $dbusrm_id;
+            $_SESSION['usrm_usrtype'] = $dbusrm_usrtype;
+            $_SESSION['mmfullname'] = $dbprdffullname;
 
-    if ($totalUser == 1 && $dbusrm_approved == "1") {
-        $_SESSION['usrm_username'] = $dbusrm_username;
-        $_SESSION['usrm_email'] = $dbusrm_email;
-        $_SESSION['usrm_id'] = $dbusrm_id;
-        $_SESSION['usrm_usrtype'] = $dbusrm_usrtype;
-        $_SESSION['mmfullname'] = $dbprdffullname;
+            //////////////////record action//////////////////////////////////////
+            $sqlA = "INSERT INTO " . $prefix . "logs(lg_action, lg_user, lg_user_level,lg_time) VALUES('$dbusrm_username Logged in from $usersipaddress', '" . $_SESSION['mmfullname'] . "', '" . $_SESSION['usrm_usrtype'] . "','$dateSubmitted')";
+            //$mysqli->query($sqlA);
 
-
-        //////////////////record action//////////////////////////////////////
-        $sqlA = "INSERT INTO " . $prefix . "logs(lg_action, lg_user, lg_user_level,lg_time) VALUES('$dbusrm_username Logged in from $usersipaddress', '" . $_SESSION['mmfullname'] . "', '" . $_SESSION['usrm_usrtype'] . "','$dateSubmitted')";
-        //$mysqli->query($sqlA);
-
-        // Check if there's a redirect URL
-        if (!empty($_POST['redirect_url'])) {
-            // Redirect to the specified URL (e.g., grant application page)
-            echo ("<script>location.href = '" . $redirect_url . "';</script>");
-            exit();
-        } else {
-            // Default redirect to dashboard
-            echo ("<script>location.href = './app/main.php?option=dashboard';</script>");
-            exit();
+            // Check if there's a redirect URL
+            if (!empty($_POST['redirect_url'])) {
+                // Redirect to the specified URL (e.g., grant application page)
+                echo ("<script>location.href = '" . $redirect_url . "';</script>");
+                exit();
+            } else {
+                // Default redirect to dashboard
+                echo ("<script>location.href = './app/main.php?option=dashboard';</script>");
+                exit();
+            }
         }
-    }
-
-
-    if ($totalUser == 1 && $dbusrm_approved == "1" and $dbusrm_usrtype == 'reviewer') {
-        $err2 = '<span class="error"> </span>';
     } else {
+        // Wrong username/password
         $err2 = "$lang_wrong_username";
     }
 } //end if post
@@ -214,13 +216,13 @@ if ($_POST['doRegister'] and $_POST['fname'] and $_POST['username'] and $_POST['
             $mysqli->query($sqlA2);
 
             // SMTP DETAILS for email
-            $usmtpportNo = "465"; // SMTP Port
-            $usmtpHost = "smtp.hostinger.com";
-            $emailUsername = "emmanuel@mannie-sl.com";
-            $emailPassword = "Emmanuel12555.";
+            $usmtpportNo = "465"; 
+            $usmtpHost =
+            $emailUsername =
+            $emailPassword = 
             $emailSSL = "ssl";
-            $emailBcc = "emmanuel@mannie-sl.com";
-            $fromEmail = "emmanuel@mannie-sl.com";
+            $emailBcc = 
+            $fromEmail =
             $fromName = "NCRST Grant Management";
 
             // Create a simpler, more reliable HTML email
@@ -381,14 +383,14 @@ if ($_POST['doResendANumber'] and $_POST['name']) {
         $error = "error";
 
         $usmtpportNo = "465"; // SMTP Port
-            $usmtpHost = "smtp.hostinger.com";
-            $emailUsername = "emmanuel@mannie-sl.com";
-            $emailPassword = "Emmanuel12555.";
+            $usmtpHost = 
+            $emailUsername = 
+            $emailPassword = 
             $emailSSL = "ssl";
-            $emailBcc = "emmanuel@mannie-sl.com";
+            $emailBcc = 
 
         // Email content
-        $fromEmail = "emmanuel@mannie-sl.com";
+        $fromEmail = 
         $fromName = "NCRST Grant Management";
         $subject = "NCRST Grant Management System - Password Reset";
         //$subject = (isset($lang_NCRST_grants_management_system) ? $lang_NCRST_grants_management_system : "Grants Management System") . " - " . $lang_passwordReset;
@@ -478,14 +480,14 @@ if (isset($vision) && !empty($vision)) {
             require("pages/class.smtp.php");
 
             $usmtpportNo = "465"; // SMTP Port
-            $usmtpHost = "smtp.hostinger.com";
-            $emailUsername = "emmanuel@mannie-sl.com";
-            $emailPassword = "Emmanuel12555.";
+            $usmtpHost =
+            $emailUsername = 
+            $emailPassword = 
             $emailSSL = "ssl";
-            $emailBcc = "emmanuel@mannie-sl.com";
+            $emailBcc =
 
         // Email content
-        $fromEmail = "emmanuel@mannie-sl.com";
+        $fromEmail = 
             $fromName = "NCRST Grant Management";
             $subject = "NCRST Grant Management System - Password Re-set";
             $body = "<p>Dear $fname,<br>$lang_Password_Reset_message";

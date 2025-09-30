@@ -149,10 +149,20 @@ require_once('contrlrcn/c_mlsrcontrol.php');
 
         <!--==================
         Slider ===================-->
-        <?php if (isset($err2) and $_POST['doLogin']) { ?><div style="background:rgb(255, 90, 44); text-align:center; color:#FFF; padding:3px;"><?php echo $lang_wrong_username; ?></div><?php } ?>
-        <?php if (isset($errormessage) and $_POST['doRegister']) { ?><div style="background:rgb(255, 90, 44); text-align:center; color:#FFF; padding:3px;">
-                <p class="error3" style="font-size:18px;"><?php echo $lang_username_withemail . ' ' . $email; ?> <a href="#" class="nav-link join_now js-modal-show"><?php echo $lang_ClickheretoLogin; ?></a></p>
-            </div><?php } ?>
+        <?php if (isset($err2) and $_POST['doLogin']) { ?>
+    <div style="background:rgb(255, 90, 44); text-align:center; color:#FFF; padding:3px;">
+        <?php echo $err2; ?>
+    </div>
+<?php } ?>
+
+<?php if (isset($errormessage) and $_POST['doRegister']) { ?>
+    <div style="background:rgb(255, 90, 44); text-align:center; color:#FFF; padding:3px;">
+        <p class="error3" style="font-size:18px;">
+            <?php echo $lang_username_withemail . ' ' . $email; ?> 
+            <a href="#" class="nav-link join_now js-modal-show"><?php echo $lang_ClickheretoLogin; ?></a>
+        </p>
+    </div>
+<?php } ?>
 
 
         <?php if (isset($message)  and $_POST['doRegister']) { ?><div><?php echo $message; ?></div><?php } ?>
@@ -464,7 +474,7 @@ require_once('contrlrcn/c_mlsrcontrol.php');
 "></div> -->
 
     <!--Start of Tawk.to Script-->
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
         var Tawk_API = Tawk_API || {},
             Tawk_LoadStart = new Date();
         (function() {
@@ -476,7 +486,7 @@ require_once('contrlrcn/c_mlsrcontrol.php');
             s1.setAttribute('crossorigin', '*');
             s0.parentNode.insertBefore(s1, s0);
         })();
-    </script>
+    </script> -->
     <!--End of Tawk.to Script-->
 
 

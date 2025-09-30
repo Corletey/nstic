@@ -19,7 +19,7 @@ $mail->setFrom("herve.pale@fonrid.bf", "Grants Management");
 $mail->FromName = "BUKINAFASO-Grants"; //From Name -- CHANGE --
 
 
-$mail->AddAddress("mwesigwa.collins@gmail.com", "Mwesigwa Collins"); //To Address -- CHANGE --
+$mail->AddAddress("emmanuelkamanda1255@gmail.com", "Mwesigwa Collins"); //To Address -- CHANGE --
 $mail->AddReplyTo("herve.pale@fonrid.bf", "MOSTI-GHANA"); //Reply-To Address -- CHANGE --
 $mail->addBcc("herve.pale@fonrid.bf",'MOSTI-GHANA');//
 $mail->addBcc('mawandammoses@gmail.com','Moses Mawanda');

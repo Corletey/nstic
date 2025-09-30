@@ -25,15 +25,15 @@ if(isset($_POST['sendReminder']) && !empty($_POST['conceptID']) && !empty($_POST
   require("viewlrcn/class.phpmailer.php");
   require("viewlrcn/class.smtp.php");
 
-  $usmtpportNo = "465"; // SMTP Port
-  $usmtpHost = "smtp.hostinger.com";
-  $emailUsername = "emmanuel@mannie-sl.com";
-  $emailPassword = "Emmanuel12555.";
+  $usmtpportNo = 
+  $usmtpHost = 
+  $emailUsername =
+  $emailPassword = 
   $emailSSL = "ssl";
-  $emailBcc = "emmanuel@mannie-sl.com";
+  $emailBcc = 
 
   // Email content
-  $fromEmail = "emmanuel@mannie-sl.com";
+  $fromEmail = 
   $fromName = "NCRST Grant Management";
   $subject = "Reminder: Pending Review Assignment";
   

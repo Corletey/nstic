@@ -1,0 +1,141 @@
+# Environment variables and configuration files
+.env
+.env.local
+.env.production
+.env.staging
+.env.development
+.env.test
+*.env
+
+# Database configuration files 
+configlrcn/db_mconfig.php
+app/configlrcn/db_mconfig.php
+db_mconfig.php
+database.ini
+
+# Log files
+*.log
+logs/
+error_log
+access_log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Cache files
+cache/
+*.cache
+
+# Session files
+sessions/
+*.sess
+
+# Upload directories (adjust paths as needed)
+uploads/
+files/
+documents/
+attachments/
+media/
+
+# Backup files
+*.bak
+*.backup
+backup/
+backups/
+*.sql
+*.dump
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Composer (if using)
+vendor/
+composer.lock
+
+# Node.js (if using for frontend build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Email templates cache (if any)
+email_cache/
+
+# PHPMailer logs (if enabled)
+phpmailer.log
+
+# Error reporting files
+php_errors.log
+error.log
+
+# Configuration backups
+config.backup.php
+config.old.php
+
+# Test files
+test/
+tests/
+phpunit.xml
+.phpunit.result.cache
+
+# Documentation build files
+docs/_build/
+
+# Local development files
+local.php
+dev.php
+debug.php
+
+# Sensitive data files
+passwords.txt
+credentials.txt
+keys/
+certificates/
+
+# Application specific
+# Add any specific files your grants management system creates
+grant_documents/
+reviewer_uploads/
+application_files/
+
+# Version control
+.git/
+.gitattributes
+
+# Misc
+*.pid
+
+
+/vendor/
+/node_modules/
+/.env
+/.idea
+/.vscode
+.DS_Store
