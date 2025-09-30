@@ -17,19 +17,19 @@ if (!$mysqli->real_escape_string($_SESSION['usrm_username']) and !$mysqli->real_
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title><?php echo $sitename; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/png" href="assets/images/icon/favicon.ico">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/themify-icons.css">
-    <link rel="stylesheet" href="assets/css/metisMenu.css">
+    <link rel="shortcut icon" type="image/png" href="app/assets/images/icon/favicon.ico">
+    <link rel="stylesheet" href="app/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="app/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="app/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="app/assets/css/metisMenu.css">
 
 
-    <link rel="stylesheet" href="assets/css/typography.css">
-    <link rel="stylesheet" href="assets/css/default-css.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="<?php echo $base_url; ?>/app/assets/css/responsive.css">
+    <link rel="stylesheet" href="app/assets/css/typography.css">
+    <link rel="stylesheet" href="app/assets/css/default-css.css">
+    <link rel="stylesheet" href="app/assets/css/styles.css">
+    <link rel="stylesheet" href="app/assets/css/responsive.css">
     <!-- modernizr css -->
-    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+    <script src="app/assets/js/vendor/modernizr-2.8.3.min.js"></script>
 
     <!-- Include Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
@@ -110,7 +110,7 @@ if (!$mysqli->real_escape_string($_SESSION['usrm_username']) and !$mysqli->real_
         <div class="sidebar-menu">
             <div class="sidebar-header">
                 <div class="logo">
-                    <a href="./main.php?option=dashboard"><img src="assets/images/icon/logo.png" alt="logo"></a>
+                    <a href="./main.php?option=dashboard"><img src="app/assets/images/icon/logo.png" alt="logo"></a>
                 </div>
             </div>
             <div class="main-menu">
@@ -755,14 +755,14 @@ if (!$mysqli->real_escape_string($_SESSION['usrm_username']) and !$mysqli->real_
 
 
 
-        <?php /*?><?php */ ?><script src="assets/js/vendor/jquery-2.2.4.min.js"></script>
+        <?php /*?><?php */ ?><script src="app/assets/js/vendor/jquery-2.2.4.min.js"></script>
         <!-- bootstrap 4 js -->
-        <script src="assets/js/popper.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <script src="assets/js/metisMenu.min.js"></script>
-        <script src="assets/js/jquery.slimscroll.min.js"></script>
-        <script src="assets/js/jquery.slicknav.min.js"></script>
+        <script src="app/assets/js/popper.min.js"></script>
+        <script src="app/assets/js/bootstrap.min.js"></script>
+        <script src="app/assets/js/owl.carousel.min.js"></script>
+        <script src="app/assets/js/metisMenu.min.js"></script>
+        <script src="app/assets/js/jquery.slimscroll.min.js"></script>
+        <script src="app/assets/js/jquery.slicknav.min.js"></script>
 
 
         <!--Begin Word count-->
@@ -783,12 +783,12 @@ if (!$mysqli->real_escape_string($_SESSION['usrm_username']) and !$mysqli->real_
     ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9", "ee6b7db5b51705a13dc2339db3edaf6d"];
     </script>
     <!-- all line chart activation -->
-    <script src="assets/js/line-chart.js"></script>
+    <script src="app/assets/js/line-chart.js"></script>
     <!-- all pie chart -->
-    <script src="assets/js/pie-chart.js"></script><?php */ ?>
+    <script src="app/assets/js/pie-chart.js"></script><?php */ ?>
         <!-- others plugins -->
-        <script src="assets/js/plugins.js"></script>
-        <script src="assets/js/scripts.js"></script>
+        <script src="app/assets/js/plugins.js"></script>
+        <script src="app/assets/js/scripts.js"></script>
 
 
 
