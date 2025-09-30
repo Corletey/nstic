@@ -33,13 +33,14 @@ function loadEnv($path) {
 }
 
 // Load the .env file
-loadEnv(__DIR__ . '../.env');
+loadEnv(__DIR__ . '/../.env');
 
 // Database configuration using environment variables
 $hostm = getenv('DB_HOST');
 $dbm = getenv('DB_NAME');
 $usrm = getenv('DB_USER');
 $pwdm = getenv('DB_PASSWORD');
+
 
 // Object oriented style
 $mysqli = new mysqli($hostm, $usrm, $pwdm, $dbm);
