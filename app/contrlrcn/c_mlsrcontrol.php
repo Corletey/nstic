@@ -1,5 +1,5 @@
 <?php
-include('configlrcn/db_mconfig.php');
+include('configlrcn/../configlrcn/db_mconfig.php');
 include('contrlrcn/slmain_mlquery.php');
 include('contrlrcn/slmain_mlproposals.php');
 include('contrlrcn/pending_evaluation.php');
